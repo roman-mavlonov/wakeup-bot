@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+# api keys
+credentials.json
+token.json
+credentials.json.*
+token.json.*
+
+# Developer's stuff:
+.env.*
+deploy-step?.sh
